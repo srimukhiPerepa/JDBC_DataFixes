@@ -13,7 +13,7 @@ steps:
 - task: Ant@1
   inputs:
     workingDirectory: '\Testing\JavaApplication'
-    buildFile: 'JavaProject.jpr'
+    buildFile: '\Testing\JavaApplication\JavaProject.jpr'
     javaHomeOption: 'JDKVersion'
     jdkVersionOption: '1.11'
     jdkArchitectureOption: 'x64'
