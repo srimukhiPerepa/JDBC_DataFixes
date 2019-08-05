@@ -12,7 +12,6 @@ pool:
 steps:
 - task: Ant@1
   inputs:
-    workingDirectory: '\Testing\JavaApplication'
     buildFile: '\Testing\JavaApplication\JavaProject.jpr'
     javaHomeOption: 'JDKVersion'
     jdkVersionOption: '1.11'
