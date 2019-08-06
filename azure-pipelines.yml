@@ -9,12 +9,3 @@ trigger:
 pool:
   vmImage: 'vs2017-win2016'
 
-steps:
-- task: Ant@1
-  inputs:
-    buildFile: 'Testing/JavaApplication/JavaProject/JavaProject.jpr'
-    javaHomeOption: 'JDKVersion'
-    jdkVersionOption: '1.11'
-    jdkArchitectureOption: 'x64'
-    publishJUnitResults: false
-    testResultsFiles: '**/TEST-*.xml'
