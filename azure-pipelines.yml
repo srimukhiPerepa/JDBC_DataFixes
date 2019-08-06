@@ -5,10 +5,9 @@
 
 trigger:
 - master
-
 pool:
   vmImage: 'vs2017-win2016'
-
+steps:
 - task: Maven@3
   inputs:
     mavenPomFile: 'pom.xml'
