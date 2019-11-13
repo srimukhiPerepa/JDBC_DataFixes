@@ -19,7 +19,7 @@ public class Hello {
 		System.out.println(message);
  
 		//set a new name
-		service.setName("Spring"); 
+		service.setName("Spring");  
 		message = service.sayHello();
 		System.out.println(message);
 	}
