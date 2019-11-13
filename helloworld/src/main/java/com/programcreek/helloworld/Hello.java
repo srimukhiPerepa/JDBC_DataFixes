@@ -14,7 +14,7 @@ public class Hello {
 				"applicationContext.xml");
  
 		HelloWorldService service = (HelloWorldService) context
-				.getBean("helloWorldService");
+				.getBean("helloWorldService"); 
 		String message = service.sayHello();
 		System.out.println(message);
  
