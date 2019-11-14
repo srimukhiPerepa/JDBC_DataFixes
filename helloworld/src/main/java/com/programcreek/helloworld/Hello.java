@@ -16,7 +16,7 @@ public class Hello {
 		HelloWorldService service = (HelloWorldService) context
 				.getBean("helloWorldService"); 
 		String message = service.sayHello();
-		System.out.println(message);
+		System.out.println(message); 
  
 		//set a new name
 		service.setName("Spring");  
