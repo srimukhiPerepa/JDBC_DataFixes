@@ -1,6 +1,6 @@
 package com.flexagon.javaapp;
 
-
+ 
 public class HelloWorld
 {
   public HelloWorld()
