@@ -5,6 +5,7 @@ import org.junit.Test;
 
 public class CodeQualityTest
 {
+  // adding comment to code quality test file
   public CodeQualityTest()
   {
   }
