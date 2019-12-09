@@ -10,7 +10,7 @@ public class HelloWorldTest
   }
 
   /**
-   * @see HelloWorld#call1()
+   * @see HelloWorld#call2()
    */
   @Test
   public void testCall1()
