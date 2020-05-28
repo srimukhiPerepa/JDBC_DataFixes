@@ -9,6 +9,7 @@ LDRCONFIG = "afscprof.lct 120.13.12010000.1"
 #RELEASE_NAME 12.1.3
 
 # -- Begin Entity Definitions -- 
+#comment
 
 DEFINE PROFILE
   KEY   PROFILE_NAME                    VARCHAR2(80)
