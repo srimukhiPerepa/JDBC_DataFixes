@@ -4,9 +4,6 @@
 
 package.xml
 
-# https://salesforce.stackexchange.com/questions/281958/sfdx-forcesourcepull-entity-of-type-customapplication-named-case-cannot-be
-testEm716.Profile
-
 # LWC configuration files
 **/jsconfig.json
 **/.eslintrc.json
