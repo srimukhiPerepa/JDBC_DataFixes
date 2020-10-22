@@ -76,7 +76,7 @@ public class managePersonCO extends OAControllerImpl
       ,OAWebBeanConstants.ADD_BREAD_CRUMB_NO
       ,OAWebBeanConstants.IGNORE_MESSAGES);
 
-    }
+    } 
   }
 
 }
