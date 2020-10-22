@@ -19,7 +19,7 @@ import oracle.apps.fnd.framework.OAException;
  * Controller for ...
  */
 public class managePersonCO extends OAControllerImpl
-{
+{ 
   public static final String RCS_ID="$Header$";
   public static final boolean RCS_ID_RECORDED =
         VersionInfo.recordClassVersion(RCS_ID, "%packagename%");
