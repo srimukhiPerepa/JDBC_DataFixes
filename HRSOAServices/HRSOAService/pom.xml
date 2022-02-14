@@ -8,6 +8,7 @@
   <parent>
     <groupId>com.oracle.soa</groupId>
     <artifactId>soa-project-common</artifactId>
+    <!-- add version -->
     <version>12.1.2-0-0</version>
   </parent>
   <properties>
