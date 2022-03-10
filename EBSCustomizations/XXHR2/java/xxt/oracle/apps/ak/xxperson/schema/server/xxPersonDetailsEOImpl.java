@@ -347,7 +347,7 @@ public class xxPersonDetailsEOImpl extends OAEntityImpl
 
   /**
    * 
-   * Add attribute defaulting logic in this method.
+   * Add attribute defaulting logic in this method
    */
   public void create(AttributeList attributeList)
   {
